@@ -1,5 +1,5 @@
 import type { BackupData, LoadOptions } from './types';
-import type { Emoji, Guild, Role } from 'discord.js-selfbot-v13';
+import type { Emoji, Guild, Role } from 'discord.js-selfbot';
 /**
  * Restores the guild configuration
  */

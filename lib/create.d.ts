@@ -1,5 +1,5 @@
 import type { BanData, ChannelsData, CreateOptions, EmojiData, RoleData } from './types';
-import type { Guild } from 'discord.js-selfbot-v13';
+import type { Guild } from 'discord.js-selfbot';
 import { MemberData } from './types/MemberData';
 /**
  * Returns an array with the banned members of the guild

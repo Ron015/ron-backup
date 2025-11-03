@@ -1,4 +1,4 @@
-import { DefaultMessageNotificationLevel, ExplicitContentFilterLevel, Snowflake, VerificationLevel } from 'discord.js-selfbot-v13';
+import { DefaultMessageNotificationLevel, ExplicitContentFilterLevel, Snowflake, VerificationLevel } from 'discord.js-selfbot';
 import { AfkData, BanData, ChannelsData, EmojiData, RoleData, WidgetData } from './';
 import { MemberData } from './MemberData';
 export interface BackupData {

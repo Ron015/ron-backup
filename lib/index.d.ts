@@ -1,5 +1,5 @@
 import type { BackupData, BackupInfos, CreateOptions, LoadOptions } from './types/';
-import type { Guild } from 'discord.js-selfbot-v13';
+import type { Guild } from 'discord.js-selfbot';
 /**
  * Fetches a backyp and returns the information about it
  */

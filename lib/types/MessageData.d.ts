@@ -1,4 +1,4 @@
-import { MessageEmbed, FileOptions } from 'discord.js-selfbot-v13';
+import { MessageEmbed, FileOptions } from 'discord.js-selfbot';
 export interface MessageData {
     username: string;
     avatar?: string;

@@ -1,5 +1,5 @@
 import type { CategoryData, ChannelPermissionsData, CreateOptions, LoadOptions, MessageData, TextChannelData, VoiceChannelData } from './types';
-import type { CategoryChannel, Guild, TextChannel, VoiceChannel, NewsChannel, ThreadChannel } from 'discord.js-selfbot-v13';
+import type { CategoryChannel, Guild, TextChannel, VoiceChannel, NewsChannel, ThreadChannel } from 'discord.js-selfbot';
 /**
  * Gets the permissions for a channel
  */

@@ -1,4 +1,4 @@
-import { ThreadAutoArchiveDuration, ThreadChannelTypes } from "discord.js-selfbot-v13";
+import { ThreadAutoArchiveDuration, ThreadChannelTypes } from "discord.js-selfbot";
 import { MessageData } from "./MessageData";
 export interface ThreadChannelData {
     type: ThreadChannelTypes;

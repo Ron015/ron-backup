@@ -153,7 +153,7 @@ backup.load(backupData, guild, {
 
 ```js
 // Load modules
-const Discord = require("discord.js-selfbot-v13"),
+const Discord = require("discord.js-selfbot"),
     backup = require("ron-backup"),
     client = new Discord.Client(),
     settings = {

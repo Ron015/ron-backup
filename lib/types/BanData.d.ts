@@ -1,4 +1,4 @@
-import { Snowflake } from 'discord.js-selfbot-v13';
+import { Snowflake } from 'discord.js-selfbot';
 export interface BanData {
     id: Snowflake;
     reason: string;
