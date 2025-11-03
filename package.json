@@ -23,7 +23,7 @@
   "author": "Ron",
   "license": "ISC",
   "dependencies": {
-    "discord.js-selfbot-v13": "3.1.4"
+    "discord.js-selfbot": "1.0.0"
   },
   "devDependencies": {
     "@types/node": "^17.0.30",
