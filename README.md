@@ -18,7 +18,7 @@ Ron Backup is a powerful [Node.js](https://nodejs.org) module that allows you to
 ## Installation
 
 ```js
-npm install Ron015/ron-backup
+npm install github:Ron015/ron-backup
 ```
 
 ### Create
