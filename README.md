@@ -1,6 +1,6 @@
 # Discord Backup
 
-**Note**: this module uses recent discordjs-selfbot features and requires discord.js-selfbot-v13.
+**Note**: this module uses recent discordjs-selfbot features and requires discord.js-selfbot.
 
 Ron Backup is a powerful [Node.js](https://nodejs.org) module that allows you to easily manage discord server backups.
 
