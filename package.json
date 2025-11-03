@@ -1,5 +1,5 @@
 {
-  "name": "ron-backuper",
+  "name": "ron-backup",
   "version": "3.1.2",
   "description": "A complete framework to facilitate server backup using discord.js-selfbot",
   "main": "lib/index.js",
